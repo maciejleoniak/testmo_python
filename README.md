@@ -11,7 +11,7 @@ If you have already installed dependecy from requirements.txt then ommit step 1 
 1. Create venv into .vevn folder
 2. Install deps from requirements.txt file
 
-## 2. Set up your Testmo API 
+## 2. Setup your Testmo API 
 1.  Visit Testmo [API Authentication](https://docs.testmo.com/api/introduction/api-authentication) 
 2. Add your url and token to .env 
 
